@@ -1,0 +1,9 @@
+{
+  "m.homeserver": { "base_url": "https://matrix.rafugapu.me" },
+  "org.matrix.msc4143.rtc_foci": [
+    {
+      "type": "livekit",
+      "livekit_service_url": "https://rtc.rafugapu.me/sfu/get"
+    }
+  ]
+}
